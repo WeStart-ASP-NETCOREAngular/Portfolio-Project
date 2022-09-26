@@ -2,30 +2,22 @@
 # Portfolio-Me
 
 A project that contains 4 pages : 
-Main page ( portfolio ) 
-portfolio ( item ) 
-Posts List ( blog ) 
-Post page ( article ) 
+
+- Main page ( portfolio ) 
+- portfolio ( item ) 
+- Posts List ( blog ) 
+- Post page ( article ) 
 
 
 ## What's included?
 
-
 - Adobe XD file 
-
-<br>
-<br>
-<br>
-<br>
 
 ## Preview
 
 ![](design/preview.png)
 
 
-<br>
-<br>
-<br>
 <br>
 
 ## Credits
